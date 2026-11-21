@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Predicción de generación renovable en Argentina
 
 Proyecto final de Data Science (Programa Energía Digital 2026). Analiza la generación mensual de centrales renovables del Mercado Eléctrico Mayorista (2011–2026), entrena modelos de Machine Learning y los expone mediante una API con FastAPI.
@@ -162,3 +163,6 @@ curl -X POST http://127.0.0.1:8000/predict -H "Content-Type: application/json" \
 - Sumar **viento y radiación** por provincia (por ejemplo, NASA POWER) y la **potencia instalada**.
 - Pronóstico a varios meses y modelos de series temporales por central.
 - *(Opcional)* Un RAG con LangChain sobre el diccionario de variables.
+=======
+# proyecto_renovables
+>>>>>>> 120190e39fdfa09a97e729d0077b979ca59fae73

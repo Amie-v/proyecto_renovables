@@ -1,0 +1,14 @@
+{
+  "estatico": {
+    "n_estimators": 150,
+    "max_depth": 14,
+    "min_samples_leaf": 15,
+    "max_features": 0.7190609389379257
+  },
+  "historial": {
+    "n_estimators": 150,
+    "max_depth": 13,
+    "min_samples_leaf": 5,
+    "max_features": 0.6599641068895281
+  }
+}
